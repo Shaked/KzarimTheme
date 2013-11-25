@@ -83,21 +83,21 @@
    2. General - Setting up some base styles
    ========================================================================== */
 
-#content-holder.hebrew
+.hebrew[id='content-holder']
 {
-   font-family: "Alef Hebrew",
-              “Helvetica Neue”,
-              Helvetica,
-              Arial,
-              sans-serif;
-   direction:rtl;
-   text-align:right;
+  font-family: "Alef Hebrew",
+             “Helvetica Neue”,
+             Helvetica,
+             Arial,
+             sans-serif;
+  direction:rtl;
+  text-align:right;
 }
 
-#content-holder.rtl
+.rtl[id='content-holder']
 {
-   direction:rtl;
-   text-align:right;
+  direction:rtl;
+  text-align:right;
 }
 
 html {
