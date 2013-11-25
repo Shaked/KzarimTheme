@@ -2,7 +2,7 @@
 
 This is a fork of the default theme for [Ghost](http://github.com/tryghost/ghost/).
 
-Adds RTL support for your posts.
+Adds RTL support to your posts.
 
 Just add `rtl` tag to your post and voilà.
 
