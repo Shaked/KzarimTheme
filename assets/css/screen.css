@@ -23,6 +23,7 @@
    ========================================================================== */
 
 @import url(normalize.css);
+@import url(http://fonts.googleapis.com/earlyaccess/alefhebrew.css);
 
 
 /* ==========================================================================
@@ -81,6 +82,23 @@
 /* ==========================================================================
    2. General - Setting up some base styles
    ========================================================================== */
+
+#content-holder.hebrew
+{
+   font-family: "Alef Hebrew",
+              “Helvetica Neue”,
+              Helvetica,
+              Arial,
+              sans-serif;
+   direction:rtl;
+   text-align:right;
+}
+
+#content-holder.rtl
+{
+   direction:rtl;
+   text-align:right;
+}
 
 html {
     height: 100%;

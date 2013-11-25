@@ -1,6 +1,13 @@
-# Casper
+# Casper-RTL
 
-The default theme for [Ghost](http://github.com/tryghost/ghost/).
+This is a fork of the default theme for [Ghost](http://github.com/tryghost/ghost/).
+
+Adds RTL support for your posts.
+
+Just add `rtl` tag to your post and voilà.
+
+If you are writing in Hebrew and want to spice things up a little with [Alef](http://alef.hagilda.com/) font, just add `hebrew` tag to your post.
+
 
 ## Copyright & License
 
