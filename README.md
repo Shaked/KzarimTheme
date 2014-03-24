@@ -1,6 +1,6 @@
 # Casper-RTL
 
-This is a fork of the default theme for [Ghost](http://github.com/tryghost/ghost/). Compatible with Ghost `v0.4.0`.
+This is a fork of the default [Casper](https://github.com/TryGhost/Casper) theme for [Ghost](http://github.com/tryghost/ghost/). Compatible with Ghost `v0.4.0`.
 
 Adds RTL support to your posts.
 
@@ -8,6 +8,9 @@ Just add `rtl` tag to your post and voilà.
 
 If you are writing in Hebrew and want to spice things up a little with [Alef](http://alef.hagilda.com/) font, just add `hebrew` tag to your post (no need to add both as `hebrew ⊂ rtl`).
 
+## Installation
+
+Just pour contents into `content/themes/casper-rtl` and restart Ghost. Use Ghost settings page to switch to the the rtl theme.
 
 ## Copyright & License
 
