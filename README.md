@@ -6,7 +6,7 @@ Adds RTL support to your posts.
 
 Just add `rtl` tag to your post and voilà.
 
-If you are writing in Hebrew and want to spice things up a little with [Alef](http://alef.hagilda.com/) font, just add `hebrew` tag to your post (no need to add both as `rtl ⊂ hebrew`).
+If you are writing in Hebrew and want to spice things up a little with [Alef](http://alef.hagilda.com/) font, just add `hebrew` tag to your post (no need to add both as `hebrew ⊂ rtl`).
 
 
 ## Copyright & License
