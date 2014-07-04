@@ -1,6 +1,6 @@
 # Casper-RTL
 
-This is a fork of the default [Casper](https://github.com/TryGhost/Casper) theme for [Ghost](http://github.com/tryghost/ghost/). Compatible with Ghost `v0.4.0`.
+This is a fork of the default [Casper](https://github.com/TryGhost/Casper) theme for [Ghost](http://github.com/tryghost/ghost/). Compatible with Ghost `v0.4.0` and Casper `v0.9.3`.
 
 Adds RTL support to your posts.
 
@@ -14,7 +14,7 @@ Just pour contents into `content/themes/casper-rtl` and restart Ghost. Use Ghost
 
 ## Copyright & License
 
-Copyright (C) 2014 Ghost Foundation - Released under the MIT License.
+Copyright (c) 2013-2014 Ghost Foundation - Released under the MIT License.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
